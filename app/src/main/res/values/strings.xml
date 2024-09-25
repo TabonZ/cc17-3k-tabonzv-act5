@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
